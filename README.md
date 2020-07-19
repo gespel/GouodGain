@@ -1,2 +1,3 @@
-# gouodgain
-A Audioplugin Gainprocessor using the JUCE Framework.
+# GouodGain
+## A Audioplugin Gainprocessor using the JUCE Framework.
+
